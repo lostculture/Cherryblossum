@@ -1,0 +1,34 @@
+
+Notes							
+Data sources							
+Koyoto	Eco-meteorology research group, Japan	http://atmenv.envi.osakafu-u.ac.jp/aono/kyophenotemp4/					
+Missing average temperature data from 2011 onwards obtrained from TimeAndDate.com							https://www.timeanddate.com/weather/japan/kyoto/historic?month=3&year=2015
+							
+DC peak bloom dates	https://www.epa.gov/sites/production/files/2016-08/cherry-blossoms_fig-1.csv	https://www.epa.gov/climate-indicators/cherry-blossoms					
+DC missing data from 2017 taken from Bloom watch website	https://www.nps.gov/subjects/cherryblossom/bloom-watch.htm						
+DC temperature tables	https://www.weather.gov/media/lwx/climate/dcatemps.pdf						
+							
+						
+							
+The earliest date that the Japaneses have recorded the date of cherry blossom season since 812							
+							
+The planting of cherry trees in Washington DC originated in 1912 as a gift of friendship to the People of the United States from the People of Japan.							
+							
+							
+Embed codes							
+
+Kyoto with smoothed data from 1800
+<iframe title="Kyoto Cherry Blossom full-flowering date" aria-label="Interactive line chart" id="datawrapper-chart-ggcIs" src="https://datawrapper.dwcdn.net/ggcIs/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+DC with smoothed data from 1950
+<iframe title="Washington D.C. Cherry Blossom full-flowering date" aria-label="Interactive line chart" id="datawrapper-chart-uxCcJ" src="https://datawrapper.dwcdn.net/uxCcJ/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+
+Kyoto from 812
+<iframe title="Kyoto Cherry Blossom full-flowering date from 812AD" aria-label="Interactive line chart" id="datawrapper-chart-7j9eg" src="https://datawrapper.dwcdn.net/7j9eg/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/5722215"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
